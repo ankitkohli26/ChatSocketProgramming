@@ -1,0 +1,22 @@
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\bin\Debug\netcoreapp2.1\Chat_Server.deps.json
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\bin\Debug\netcoreapp2.1\Chat_Server.runtimeconfig.json
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\bin\Debug\netcoreapp2.1\Chat_Server.runtimeconfig.dev.json
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\bin\Debug\netcoreapp2.1\Chat_Server.dll
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\bin\Debug\netcoreapp2.1\Chat_Server.pdb
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.csprojAssemblyReference.cache
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.AssemblyInfoInputs.cache
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.AssemblyInfo.cs
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.dll
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.pdb
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\bin\Debug\netcoreapp2.1\Chat_Server.deps.json
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\bin\Debug\netcoreapp2.1\Chat_Server.runtimeconfig.json
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\bin\Debug\netcoreapp2.1\Chat_Server.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\bin\Debug\netcoreapp2.1\Chat_Server.dll
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\bin\Debug\netcoreapp2.1\Chat_Server.pdb
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.csprojAssemblyReference.cache
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.AssemblyInfo.cs
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.dll
+C:\Users\ankit\Desktop\ChatApplication\Chat_Server\obj\Debug\netcoreapp2.1\Chat_Server.pdb

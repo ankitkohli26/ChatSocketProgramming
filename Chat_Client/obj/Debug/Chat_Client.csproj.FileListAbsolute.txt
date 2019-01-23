@@ -1,0 +1,14 @@
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Client\bin\Debug\Chat_Client.exe.config
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Client\bin\Debug\Chat_Client.exe
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Client\bin\Debug\Chat_Client.pdb
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Client\obj\Debug\Chat_Client.csprojAssemblyReference.cache
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Client\obj\Debug\Chat_Client.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Client\obj\Debug\Chat_Client.exe
+C:\Users\Ankit Kohli\source\repos\ChatApplication\Chat_Client\obj\Debug\Chat_Client.pdb
+C:\Users\ankit\Desktop\ChatApplication\Chat_Client\bin\Debug\Chat_Client.exe.config
+C:\Users\ankit\Desktop\ChatApplication\Chat_Client\bin\Debug\Chat_Client.exe
+C:\Users\ankit\Desktop\ChatApplication\Chat_Client\bin\Debug\Chat_Client.pdb
+C:\Users\ankit\Desktop\ChatApplication\Chat_Client\obj\Debug\Chat_Client.csprojAssemblyReference.cache
+C:\Users\ankit\Desktop\ChatApplication\Chat_Client\obj\Debug\Chat_Client.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\ChatApplication\Chat_Client\obj\Debug\Chat_Client.exe
+C:\Users\ankit\Desktop\ChatApplication\Chat_Client\obj\Debug\Chat_Client.pdb
